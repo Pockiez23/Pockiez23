@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer , Full Stack Developer
 -----------------------------------------
 
-Hello, my name is Itthichet Hongworapat (you can call me Nai). I am currently a fourth-year Computer Science student in the Faculty of Science and Technology, Thammasat University.
+Hello, my name is Itthichet Hongworapat (you can call me Nine). I am currently a fourth-year Computer Science student in the Faculty of Science and Technology, Thammasat University.
 
 I have studied and gained experience across several areas in computing, including Data Science, Data Analysis, and Software Engineering. I have also worked in a Scrum-based team environment, which has helped me understand collaborative software development and structured delivery processes.
 
